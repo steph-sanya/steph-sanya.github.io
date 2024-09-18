@@ -14,7 +14,7 @@ ul{
     margin: 0px;
 }
 
-    body>header{background-color: orange;
+    body>header{background-color: rgb(225, 0, 255);
     color: white;
     display: flex;
     align-items: center;
@@ -61,7 +61,7 @@ ul{
         text-align: center;
     }
 
-    body>footer{background-color: orange;
+    body>footer{background-color: rgb(148, 68, 137);
     display:flex
     }
 
